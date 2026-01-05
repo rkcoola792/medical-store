@@ -8,27 +8,27 @@ const Deals = () => {
     {
       title: "Capsules",
       description: "Premium quality capsules manufactured with precision and care. Our capsule range includes supplements for bone health, nerve support, and overall wellness. Formulated with high bioavailability ingredients to ensure maximum absorption and effectiveness. Perfect for daily health maintenance and targeted therapeutic support.",
-      image: "/public/capsules.jpeg"
+      image: "/capsules.jpeg"
     },
     {
       title: "Injections",
       description: "Sterile injectable formulations produced under strict quality control. Our injection range provides rapid and effective delivery of medications for pain management, nutritional support, and therapeutic interventions. Manufactured in state-of-the-art facilities meeting international standards.",
-      image: "/public/injections.jpeg"
+      image: "/injections.jpeg"
     },
     {
       title: "Ointments",
       description: "Topical ointments designed for external application and targeted relief. Our range includes formulations for pain relief, skin conditions, and therapeutic applications. Developed with advanced delivery systems for better penetration and faster action at the site of application.",
-      image: "/public/ointments.jpeg"
+      image: "/ointments.jpeg"
     },
     {
       title: "Tablets",
       description: "Compressed tablets offering convenient oral administration. Our tablet range covers various therapeutic categories including pain relief, anti-inflammatory, and nutritional supplements. Manufactured with consistent quality and optimal disintegration properties for effective absorption.",
-      image: "/public/tablets.jpeg"
+      image: "/tablets.jpeg"
     },
     {
       title: "Syrups",
       description: "Liquid formulations perfect for easy consumption and rapid absorption. Our syrup range includes pediatric and adult formulations for various conditions. Palatable flavors combined with effective therapeutic ingredients make them suitable for all age groups.",
-      image: "/public/syrups.jpeg"
+      image: "/syrups.jpeg"
     }
   ];
 

@@ -6,49 +6,49 @@ export default function ProductsShowcase() {
     {
       id: 1,
       title: "Orthopeadics",
-      image:"/public/orthopaedics.jpeg",
+      image:"/orthopaedics.jpeg",
     },
     {
       id: 2,
       title: "Gynaecology",
       image:
-        "/public/gyna.jpeg",
+        "/gyna.jpeg",
     },
     {
       id: 3,
       title: "General Practitioner",
       image:
-        "/public/geriation.jpeg",
+        "/geriation.jpeg",
     },
     {
       id: 4,
       title: "Rheumatologist",
       image:
-        "/public/rheumatology.jpeg",
+        "/rheumatology.jpeg",
     },
     {
       id: 5,
       title: "Geriatrician",
       image:
-        "/public/phsycian.jpeg",
+        "/phsycian.jpeg",
     },
     {
       id: 6,
       title: "Endocrinologist",
       image:
-        "/public/endo.jpeg",
+        "/endo.jpeg",
     },
     {
       id: 7,
       title: "Pediatrician",
       image:
-        "/public/paedea.jpeg",
+        "/paedea.jpeg",
     },
     {
       id: 8,
       title: "Orthodontist",
       image:
-        "/public/orthodontist.png",
+        "/orthodontist.png",
     },
   ];
 const navigate = useNavigate();

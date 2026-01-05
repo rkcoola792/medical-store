@@ -8,27 +8,27 @@ const AutoCarousel = () => {
     {
       title: "SLATY-OD",
       description: "*SLATY-OD* is a comprehensive bone and nerve health supplement formulated to support overall skeletal strength, neurological repair, and immunity. Powered by *Calcium Citrate Malate (CCM)* with high bioavailability and superior gastrointestinal tolerance, it helps prevent bone loss and improves bone density effectively. The inclusion of *Methylcobalamin, the neurologically active form of Vitamin B12, supports nerve regeneration and remyelination, aiding in recovery from nerve damage. **Vitamin D3* enhances calcium absorption and strengthens immune defense, while *Vitamin K27* plays a vital role in calcium regulation, helping prevent abnormal bleeding and cholestasis. Enriched with *Zinc and Magnesium, essential cofactors in bone metabolism and nerve conduction, SLATY-OD is especially beneficial in conditions such as **osteoporosis, osteopenia, and post-menopausal bone loss*, offering strength and protection beyond bones.",
-      image: "/public/slaty-od.jpeg"
+      image: "/slaty-od.jpeg"
     },
     {
       title: "PENTRYP-NT",
       description: "*PENTRYP-NT* is a targeted combination therapy designed for effective management of *neuropathic and chronic pain, helping patients regain comfort and improve daily functioning. It combines **Gabapentin, which reduces abnormal nerve signaling by inhibiting calcium channel activity, with **Nortriptyline, a well-established agent that enhances serotonin and norepinephrine levels to modulate pain perception, relieve anxiety, and improve sleep quality. This synergistic formulation not only alleviates nerve pain but also addresses associated mood disturbances and sleep disorders, thereby restoring overall quality of life. PENTRYP-NT is proven beneficial in conditions such as **diabetic neuropathy, post-herpetic neuralgia, sciatica, cervical radiculopathy, fibromyalgia, and chronic pain syndromes*, offering comprehensive relief and lasting peace for overactive, painful nerves.",
-      image: "/public/pentryp-nt.jpeg"
+      image: "/pentryp-nt.jpeg"
     },
     {
       title: "DANIQUE-D3 60K",
       description: "*DANIQUE-D3 60K* is a high-potency *cholecalciferol (Vitamin D3) 60,000 IU* formulation designed for rapid correction of Vitamin D deficiency and long-term support of bone, muscle, and immune health. Its high-dose therapy ensures quick replenishment of depleted Vitamin D levels, improving calcium absorption and maintaining optimal calcium homeostasis, which helps prevent osteomalacia and enhances bone mineral density. By strengthening bones and muscles, DANIQUE-D3 60K effectively reduces bone and muscle pain and supports mobility, particularly in individuals at risk such as post-menopausal women. In addition to its skeletal benefits, Vitamin D3 acts as a powerful immunomodulator, helping reduce susceptibility to infections and supporting overall immune function. DANIQUE-D3 60K is indicated in *Vitamin D deficiency, osteoporosis, osteoarthritis, hypocalcemia, bone and muscle pain, cardiovascular risk support, and immunity boosting*, making it a reliable sunshine in a capsule when natural sunlight is insufficient",
-      image: "/public/danique-d3-60k.jpeg"
+      image: "/danique-d3-60k.jpeg"
     },
     {
       title: "Fenamol",
       description: "*Fenamol* is a powerful multi-activity anti-inflammatory analgesic formulated for the effective management of *acute painful inflammatory conditions. It combines **Aceclofenac, a site-specific NSAID that provides potent analgesic and anti-inflammatory action with better gastric tolerability, **Paracetamol, a centrally acting analgesic and antipyretic with a well-established safety profile, and **Serratiopeptidase, an enzyme that reduces inflammation by removing cellular exudates, improving local blood circulation, and enhancing drug penetration at the affected site. This synergistic combination delivers faster pain relief, reduces swelling, and promotes quicker recovery, making Fenamol highly effective in **painful traumatic conditions, fracture-related pain, dental pain, pre- and post-surgical pain, and sports injuries*. Fenamol offers comprehensive relief by addressing pain, inflammation, and tissue recovery simultaneously, ensuring effective and dependable pain management.",
-      image: "/public/fenamol.jpeg"
+      image: "/fenamol.jpeg"
     },
     {
       title: "WELLAROZ-FORTE",
       description: "*WELLAROZ-FORTE* is an advanced, integrated therapy specially formulated for patients suffering from *osteoarthritis and rheumatoid conditions that lead to painful, stiff, and immobile joints. It combines **Undenatured Type II Collagen Peptide, the primary structural component of articular cartilage, which helps repair cartilage, improve joint flexibility, and restore mobility, particularly in osteoarthritis. **Boswellia serrata* provides potent anti-inflammatory action, reducing joint inflammation while supporting overall joint and immune health. *Sodium hyaluronate* enhances joint lubrication and shock absorption, promoting smooth joint movement and supporting the growth and maintenance of cartilage and bone tissues. *Rosehip extract* protects cartilage, reduces pain, stiffness, swelling, and inflammation, and improves joint comfort. Together, this synergistic formulation supports cartilage healing, reduces inflammation, and improves joint mobility, making WELLAROZ-FORTE highly beneficial in *osteoarthritis, rheumatoid arthritis, low back pain, tendonitis, tendinosis, sprains and strains, sports and accidental injuries, post-orthopaedic surgeries, and knee and hip joint disorders*, delivering comprehensive and long-lasting joint support.",
-      image: "/public/wellaroz-forte.jpeg"
+      image: "/wellaroz-forte.jpeg"
     }
   ];
 

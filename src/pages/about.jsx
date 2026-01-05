@@ -60,7 +60,7 @@ export default function AboutUs() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
           {/* Our Focus */}
-          <div className="bg-white rounded-xl shadow-lg p-8 border-t-4 border-gray-700">
+          <div className="bg-white rounded-xl shadow-lg p-8 border-t-4 border-cyan-700">
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Our Focus</h3>
             <ul className="space-y-3">
               <li className="flex items-start">

@@ -22,7 +22,7 @@ export default function Manufacturer() {
       id: 1,
       title: "Manufacturing Unit",
       description: "State-of-the-art production facility",
-      imageUrl: "/public/manufacturer.jpeg",
+      imageUrl: "/manufacturer.jpeg",
     },
     {
       id: 2,
@@ -35,7 +35,7 @@ export default function Manufacturer() {
       id: 3,
       title: "Packaging Unit",
       description: "Automated packaging and labeling facility",
-      imageUrl: "/public/packaging.jpeg",
+      imageUrl: "/packaging.jpeg",
     },
     {
       id: 4,
@@ -55,7 +55,7 @@ export default function Manufacturer() {
       id: 6,
       title: "Clean Room Facility",
       description: "Sterile production environment for sensitive medications",
-      imageUrl: "/public/machine.jpeg",
+      imageUrl: "/machine.jpeg",
     },
   ];
 
