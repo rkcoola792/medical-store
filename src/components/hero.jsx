@@ -10,7 +10,7 @@ export default function HeroSection() {
       }}
     >
       {/* Light overlay */}
-      <div className="absolute inset-0 bg-white/85"></div>
+      <div className="absolute inset-0 bg-white/45"></div>
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-28">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 items-center">
@@ -18,9 +18,7 @@ export default function HeroSection() {
           {/* LEFT CONTENT */}
           <div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight">
-              INDIA’S BEST <br />
-              PHARMA PARTNER <br />
-              YOU CAN TRUST
+              Your Health, Our Priority
             </h1>
 
             <p className="mt-5 text-2xl font-bold text-cyan-500">
